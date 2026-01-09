@@ -74,5 +74,9 @@ def main():
         else:
             print("Invalid selection, try again.")
 
+print("Adding new feature which helps to make")
+print("enter the username")
+print("enter the password")
+
 if __name__ == "__main__":
     main()
