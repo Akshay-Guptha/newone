@@ -66,6 +66,8 @@ def main():
         elif choice == "3":
             isbn = input("Enter ISBN to return: ")
             my_library.return_book(isbn)
+        elif choice=="5":
+            print("HAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
         elif choice == "4":
             print("Goodbye!")
             break
